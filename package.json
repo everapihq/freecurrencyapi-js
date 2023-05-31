@@ -1,0 +1,30 @@
+{
+  "name": "@everapi/freecurrencyapi-js",
+  "version": "1.0.0",
+  "description": "A JavaScript wrapper for the freecurrencyapi.com's API",
+  "main": "index.js",
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/everapihq/freecurrencyapi-js.git"
+  },
+  "keywords": [
+    "freecurrencyapi",
+    "api",
+    "fx api",
+    "exchange rates API",
+    "rates API",
+    "currency API",
+    "exchange rates",
+    "free currency API"
+  ],
+  "author": "Dominik Kukacka",
+  "bugs": {
+    "url": "https://github.com/everapihq/freecurrencyapi-js/issues"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "homepage": "https://github.com/everapihq/freecurrencyapi-js#readme",
+  "license": "MIT"
+}
