@@ -1,6 +1,6 @@
 'use strict';
 
-class FxAPI {
+class Freecurrencyapi {
     baseUrl = 'https://api.freecurrencyapi.com/v1/';
 
     constructor(apiKey = '') {
